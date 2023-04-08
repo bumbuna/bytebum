@@ -3,18 +3,18 @@
   "name": "Bytebum",
   "icons": [
     {
-      "src": "bytebum-logo-green-on-white.svg",
+      "src": "bytebum-logo-green-on-white.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
     },
     {
-      "src": "bytebum-logo-green-on-white.svg",
-      "type": "image/svg",
+      "src": "bytebum-logo-green-on-white.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "bytebum-logo-green-on-white.svg",
-      "type": "image/svg",
+      "src": "bytebum-logo-green-on-white.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],
