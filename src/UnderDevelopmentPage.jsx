@@ -15,7 +15,7 @@ export function UnderDevelopmentPage() {
                 <Row style={{ height: '100%' }}>
                     <Col xs={12} sm={12} md={12} lg={3} className={"bg-dark py-5"}>
                         <Container className="h-100 d-flex justify-content-center align-items-center">
-                            <Image src="bytebum-logo-dark.svg" roundedCircle width={200} height={200} />
+                            <Image src="bytebum-logo-light.svg" width={200} height={200} />
                         </Container>
 
                     </Col>

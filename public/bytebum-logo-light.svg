@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.56 65.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #231f20;
+        font-family: ArialMT, Arial;
+        font-size: 14px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.07em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-1" d="m66.42,11.88c-1.14-3.97-3.31-6.9-6.65-8.63-2.46-1.19-5.46-1.45-7.95-1.43l-12.89-.24c-.74-.04-1.18.45-1.33,1.45l-5.25,36.32c.06.24.12.48.16.73h-.26l.1-.73c-.66-2.79-1.85-4.85-3.57-6.91l1.74-2.52c1.47-2.15,2.6-4.67,3.2-7.75l.07-.1v-.09c.67-4.3,1-9.53-.6-13.64-1.47-3.74-3.87-6.26-7.34-7.38-2.53-.75-5.53-.47-8,0L5.04,3.01c-.74.1-1.13.66-1.2,1.69L.5,62.52c0,1.22.6,2.06,1.33,2.06h15.34c2.73,0,5.67-.37,8.2-1.87,1.45-.8,2.73-2.06,3.8-3.63.14-.19.27-.39.4-.6l-.09.6-.11.75c-.1,1.21.42,2.15,1.15,2.28l15.22,2.73c2.72.49,5.66.64,8.3-.39,4.92-1.75,8.41-8.66,8.99-15.52.55-6.49-.55-10.07-3.05-13.91l1.94-2.19c1.64-1.88,2.97-4.18,3.84-7.13l.07-.08v-.09c1.04-4.15,1.81-9.28.57-13.65Z"/>
+    <text class="cls-2" transform="translate(13.86 24.71) scale(.73 1)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-3" transform="translate(10.46 51.88)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-3" transform="translate(42.87 51.5)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-3" transform="translate(46.87 25.5)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+</svg>
