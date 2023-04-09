@@ -15,7 +15,7 @@ export function UnderDevelopmentPage() {
                 <Row style={{ height: '100%' }}>
                     <Col xs={12} sm={12} md={12} lg={3} className={"bg-dark py-5"}>
                         <Container className="h-100 d-flex justify-content-center align-items-center">
-                            <Image src="bytebum-logo-green-on-white.svg" roundedCircle width={200} height={200} />
+                            <Image src="bytebum-logo-dark.svg" roundedCircle width={200} height={200} />
                         </Container>
 
                     </Col>
@@ -28,7 +28,7 @@ export function UnderDevelopmentPage() {
                                         <div className="text-start fs-3 fw-semibold">
                                             <p>Our team of engineers at Bytebum is working round the clock
                                                 to complete this site and avail it to you in the shortest time possible
-                                                . Plese be patient as we finish up on this site.
+                                                . Please be patient as we finish up on this site.
                                             </p>
                                             <p className="fst-italic fw-light fs-5">
                                                 If you need to contact us please feel free to use the
